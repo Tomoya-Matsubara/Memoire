@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/memoire.iml" filepath="$PROJECT_DIR$/.idea/modules/memoire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnityExport/memoire.UnityExport.iml" filepath="$PROJECT_DIR$/.idea/modules/UnityExport/memoire.UnityExport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/memoire.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/memoire.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1982994111/memoire.asmadsen_react-native-unity-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1982994111/memoire.asmadsen_react-native-unity-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1787316001/memoire.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1787316001/memoire.react-native-splash-screen.iml" />
+    </modules>
+  </component>
+</project>

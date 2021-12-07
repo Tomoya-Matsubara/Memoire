@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:1-21:12
+INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:1-21:12
+INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:1-21:12
+INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:1-21:12
+INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:1-21:12
+INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:1-21:12
+INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:1-21:12
+	package
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:70-98
+		INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+		INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:1-21:12
+		INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:99-145
+	android:versionCode
+		INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:1-21:12
+		INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:4:3-11:17
+meta-data#unity.splash-mode
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:6:5-69
+	android:value
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:6:49-66
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:6:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:7:5-74
+	android:value
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:7:51-71
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:7:16-50
+meta-data#notch.config
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:8:5-81
+	android:value
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:8:44-78
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:8:16-43
+meta-data#unity.build-id
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:9:5-101
+	android:value
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:9:46-98
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:9:16-45
+meta-data#com.google.ar.core
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:10:5-77
+	android:value
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:10:50-74
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:10:16-49
+uses-feature#0x00020000
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:12:3-52
+	android:glEsVersion
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:12:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:13:3-65
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:13:20-62
+uses-permission#android.permission.CAMERA
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:14:3-63
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:14:20-60
+uses-feature#android.hardware.camera
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:15:3-83
+	android:required
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:15:56-80
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:15:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:16:3-93
+	android:required
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:16:66-90
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:16:17-65
+uses-feature#android.hardware.camera.front
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:17:3-89
+	android:required
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:17:62-86
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:17:17-61
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:18:3-88
+	android:required
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:18:61-85
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:18:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:19:3-99
+	android:required
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:19:72-96
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:19:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:20:3-108
+	android:required
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:20:81-105
+	android:name
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml:20:17-80
+uses-sdk
+INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+		INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+		ADDED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
+		INJECTED from /Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/UnityExport/src/main/AndroidManifest.xml
