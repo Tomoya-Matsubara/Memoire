@@ -1,4 +1,0 @@
-#Fri May 21 23:44:25 CEST 2021
-base.0=/Users/juto/Documents/CentraleSupelec/2A/S8/Projet/memoire/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

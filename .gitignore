@@ -54,7 +54,9 @@
 # *.iws
 
 # IntelliJ
-# out/
+out/
+build
+bin
 
 # mpeltonen/sbt-idea plugin
 # .idea_modules/
